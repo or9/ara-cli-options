@@ -1,5 +1,5 @@
 {
-  "name": "cli-options",
+  "name": "ara-cli-options",
   "version": "0.0.1",
   "description": "Get options provided to a script",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/or9/cli-options.git"
+    "url": "git+ssh://git@github.com/or9/ara-cli-options.git"
   },
   "keywords": [
     "params",
@@ -23,7 +23,7 @@
   "author": "Drahman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/or9/cli-options/issues"
+    "url": "https://github.com/or9/ara-cli-options/issues"
   },
-  "homepage": "https://github.com/or9/cli-options#readme"
+  "homepage": "https://github.com/or9/ara-cli-options#readme"
 }

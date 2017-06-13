@@ -12,7 +12,7 @@ while (clonedProcessArgs.length) {
 }
 
 module.exports = (...keys) => {
-	const key = keys.filter(filteredKey => !!filteredKey)[0];
+	const key = keys.find(filteredKey => !!filteredKey);
 	return (mappedOptions.find(cliArg => cliArg.key === key) || {}).value;
 }
 
