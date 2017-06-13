@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Get options provided to a script",
   "main": "index.js",
+  "bin": {
+	  "ara-cli-options": "index.js"
+  },
   "scripts": {
     "test": "test"
   },
