@@ -1,0 +1,13 @@
+[ignore]
+./dist/.*
+<PROJECT_ROOT>/dist
+./bin/.*
+
+[include]
+*\.js
+
+[libs]
+.\./node_modules
+
+[options]
+

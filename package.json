@@ -1,0 +1,26 @@
+{
+  "name": "cli-options",
+  "version": "0.0.1",
+  "description": "Get options provided to a script",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/or9/cli-options.git"
+  },
+  "keywords": [
+    "params",
+    "node",
+    "options",
+    "cli",
+    "module"
+  ],
+  "author": "Drahman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/or9/cli-options/issues"
+  },
+  "homepage": "https://github.com/or9/cli-options#readme"
+}
